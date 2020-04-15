@@ -1,5 +1,4 @@
-# Stoppuhr
-> Stopwatch App Examples
+# Stoppuhr - Stopwatch App Examples
 
 ##### Vanilla Javascript
 ``` bash
