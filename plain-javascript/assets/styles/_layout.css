@@ -1,0 +1,20 @@
+/* Layout Classes */
+html {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  font-family: Sans-Serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  font-family: Sans-Serif;
+  background-color: #27292d;
+  overflow-x: hidden;
+}
+
+.z-100 {
+  z-index: 100;
+}

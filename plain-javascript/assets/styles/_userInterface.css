@@ -1,0 +1,117 @@
+/* UI Classes */
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  min-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+  opacity: 0.76;
+}
+
+.bottom-row {
+  background-color: #27292d;
+  color: white;
+}
+
+.button {
+  border: 0;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  max-width: 250px;
+  padding: 15px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.clock {
+  width: 100%;
+  color: white;
+  font-size: 4.35em;
+  align-items: center;
+  background: #2e3139;
+  justify-content: center;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  z-index: 1;
+  border-top: 1px solid #26bf81;
+  border-bottom: 1px solid #26bf81;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.89);
+  -moz-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.89);
+  box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.89);
+}
+
+footer {
+  bottom: 0;
+  background-color: #141519;
+}
+
+nav {
+  background-color: #484d5b;
+  padding: 1.5em;
+}
+
+nav h1 {
+  font-size: 1em;
+  margin: 0;
+}
+
+.reset {
+  background-color: #8c91ab;
+}
+
+.start {
+  background-color: #31fdaf;
+}
+
+.stop {
+  background-color: Red !important;
+}
+
+.stopWatch {
+  max-width: 35%;
+  margin: 15px auto;
+  margin-top: 65px;
+  border-left: 1px solid #26bf81;
+  border-right: 1px solid #26bf81;
+  border-bottom: 1px solid #26bf81;
+  border-radius: 5px;
+  min-height: 100px;
+  background-color: #4b4b59;
+}
+
+.stopWatch input {
+  border: 0;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  max-width: 125px;
+  padding: 15px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  cursor: pointer;
+  justify-content: center;
+}
