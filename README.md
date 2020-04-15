@@ -1,7 +1,7 @@
 # Stoppuhr - Stopwatch App Examples
 
 ##### Vanilla Javascript
-``` bash
+```
 Working JSFiddle Example for Vanilla JS - https://jsfiddle.net/JackWuerfel/901s5tje/13/
 ```
 
