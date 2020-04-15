@@ -7,7 +7,7 @@ Working JSFiddle Example for Vanilla JS - https://jsfiddle.net/JackWuerfel/901s5
 
 ##### React - cd into react folder
 
-``` bash
+```
 # Install dependencies
 yarn install
 
