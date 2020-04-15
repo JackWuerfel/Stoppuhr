@@ -1,12 +1,12 @@
 # Stoppuhr
 > Stopwatch App Examples
 
-## Vanilla Javascript
+#### Vanilla Javascript
 ``` bash
 Working JSFiddle Example for Vanilla JS - https://jsfiddle.net/JackWuerfel/901s5tje/13/
 ```
 
-## React - cd into react folder
+#### React - cd into react folder
 
 ``` bash
 # Install dependencies
